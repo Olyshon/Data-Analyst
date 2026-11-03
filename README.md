@@ -11,7 +11,7 @@
 Сценарная модель на реальных данных собственного интернет-магазина: сравнение методов прогнозирования и моделирование пополнения запасов с учётом срока поставки и условий заказа.
 
 <a href="https://github.com/Olyshon/sales-forecast-inventory-model">
-  <img src="https://raw.githubusercontent.com/Olyshon/sales-forecast-inventory-model/main/screenshots/overview.png" alt="Excel-модель: показатели покрытия спроса, дефицита и остатков, сравнение сценариев страхового запаса и срока поставки" width="760">
+  <img src="https://raw.githubusercontent.com/Olyshon/sales-forecast-inventory-model/main/screenshots/overview.png" alt="Excel-модель: показатели покрытия спроса, дефицита и остатков, сравнение сценариев страхового запаса и срока поставки" width="650">
 </a>
 
 - Подготовлена история продаж за 104 недели.
@@ -27,7 +27,7 @@
 Приложение для анализа продаж интернет-магазина: выручка, количество заказов, средний чек, динамика продаж и топ товаров. Поддерживает загрузку CSV, проверку данных и фильтрацию по датам.
 
 <a href="https://github.com/Olyshon/retail-analytics">
-  <img src="./retail-analytics/screenshots/dashboard.png" alt="Retail Analytics на демоданных: выручка, количество заказов, средний чек, динамика дневной выручки и ведущие товары" width="760">
+  <img src="./retail-analytics/screenshots/dashboard.png" alt="Retail Analytics на демоданных: выручка, количество заказов, средний чек, динамика дневной выручки и ведущие товары" width="650">
 </a>
 
 Проект разработан с использованием OpenAI Codex. Работа включала постановку требований, уточнение правил расчёта метрик, проверку результатов и публикацию приложения.
