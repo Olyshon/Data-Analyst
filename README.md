@@ -40,12 +40,19 @@
 
 ### [GO Tracker — трекер привычек и целей](https://github.com/Olyshon/go-tracker)
 
+<a href="https://github.com/Olyshon/go-tracker">
+  <img align="left" src="https://raw.githubusercontent.com/Olyshon/go-tracker/main/screenshots/october-2026.png" alt="Превью GO Tracker за октябрь: календарь привычек, цели месяца и графики прогресса на демонстрационных данных" width="150">
+</a>
+
 Веб-приложение с календарём привычек, ежемесячными целями и визуализацией прогресса. Реализованы гибкое расписание, сохранение истории и пользовательские аккаунты.
 
-Проект создан с использованием Lovable и AI-инструментов. Работа включала формулирование требований, проверку пользовательских сценариев и корректировку поведения приложения.
+**Особенности:** AI-assisted development, формулирование требований, проверка пользовательских сценариев, контроль логики работы приложения.
 
-**Технологии:** React, TypeScript, Supabase / PostgreSQL.  
+**Технологии:** React, TypeScript, Supabase / PostgreSQL.
+
 [Открыть приложение](https://go-tracker-olga.lovable.app/)
+
+<br clear="all">
 
 ## Другие аналитические работы
 
