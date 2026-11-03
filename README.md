@@ -6,11 +6,11 @@
 
 ## Избранные проекты
 
+### [Прогноз продаж и моделирование закупок в Excel](https://github.com/Olyshon/sales-forecast-inventory-model)
+
 <a href="https://github.com/Olyshon/sales-forecast-inventory-model">
   <img align="left" src="https://raw.githubusercontent.com/Olyshon/sales-forecast-inventory-model/main/screenshots/overview.png" alt="Превью Excel-модели: показатели запасов и сравнение сценариев закупки" width="150">
 </a>
-
-### [Прогноз продаж и моделирование закупок в Excel](https://github.com/Olyshon/sales-forecast-inventory-model)
 
 Сценарная модель на реальных данных собственного интернет-магазина. Сравнение методов прогнозирования спроса и моделирование пополнения запасов с учётом срока поставки и условий заказа.
 
@@ -20,11 +20,11 @@
 
 <br clear="all">
 
+### [Retail Analytics — интерактивный дашборд продаж](https://github.com/Olyshon/retail-analytics)
+
 <a href="https://github.com/Olyshon/retail-analytics">
   <img align="left" src="./retail-analytics/screenshots/dashboard.png" alt="Превью Retail Analytics: KPI продаж, динамика выручки и ведущие товары на демоданных" width="150">
 </a>
-
-### [Retail Analytics — интерактивный дашборд продаж](https://github.com/Olyshon/retail-analytics)
 
 Веб-приложение для анализа продаж интернет-магазина: выручка, количество заказов, средний чек, динамика продаж и ведущие товары.
 
