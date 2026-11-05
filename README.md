@@ -56,14 +56,9 @@
 
 ## Другие аналитические работы
 
-В этом репозитории собраны учебные работы по исследовательскому анализу, статистике, SQL и визуализации.
-
-| Направление | Задачи | Инструменты |
-|---|---|---|
-| A/B-тестирование | Проверка гипотез и анализ результатов экспериментов | Python, SciPy |
-| Исследовательский анализ | Подготовка данных, поиск закономерностей и визуализация | Python, Pandas, Matplotlib, Seaborn |
-| Бизнес-метрики | Расчёт показателей и представление результатов в дашбордах | SQL, DataLens |
-| Анализ предметной области | Работа с данными недвижимости, игровой аналитики и общественного питания | SQL, Python, DataLens |
+- [A/B-тест алгоритма рекомендаций](https://github.com/Olyshon/data-analytics-portfolio/tree/main/ab-test-recommendation-algorithm) — планирование эксперимента, проверка групп и оценка доли успешных сессий; Python, pandas, SciPy, statsmodels.
+- [Рынок общепита Москвы](https://github.com/Olyshon/data-analytics-portfolio/tree/main/moscow-restaurant-market-analysis) — исследование структуры рынка, рейтингов и цен заведений; Python, pandas, matplotlib, seaborn.
+- [Рынок недвижимости](https://github.com/Olyshon/data-analytics-portfolio/tree/main/real-estate-market-analysis) — анализ рынка недвижимости Санкт-Петербурга и Ленинградской области; PostgreSQL, SQL, Yandex DataLens.
 
 ## Технический стек
 
