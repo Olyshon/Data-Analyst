@@ -23,7 +23,7 @@
 ### [Retail Analytics — интерактивный дашборд продаж](https://github.com/Olyshon/retail-analytics)
 
 <a href="https://github.com/Olyshon/retail-analytics">
-  <img align="left" src="./retail-analytics/screenshots/dashboard.png" alt="Превью Retail Analytics: KPI продаж, динамика выручки и ведущие товары на демоданных" width="150">
+  <img align="left" src="https://raw.githubusercontent.com/Olyshon/retail-analytics/main/screenshots/dashboard.png" alt="Превью Retail Analytics: KPI продаж, динамика выручки и ведущие товары на демоданных" width="150">
 </a>
 
 Веб-приложение для анализа продаж интернет-магазина: выручка, количество заказов, средний чек, динамика продаж и ведущие товары.
